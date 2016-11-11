@@ -2,11 +2,7 @@
 layout: no-about-page
 title: About
 permalink: /about/
-image: /images/pic02.jpg
+image: /images/me01.jpg
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Là một người bố tôi luôn luôn phấn đấu sống tốt với bản thân mình cũng như trong gia đình, vì tôi biết mỗi bước chân tôi đi, con gái tôi đều biết. Vì thế hãy sống thật tốt để con của tôi phải đi theo dấu chân của tôi...
