@@ -2,7 +2,7 @@
 layout: post
 title:  "Tutorial: Working with Node.js and Redis"
 date:   2016-12-09 11:46:07
-categories: tungns update
+categories: mydaughter update
 tags: mydaughter update
 image: /images/pic001.png
 ---
