@@ -141,3 +141,28 @@ I live: Hello World
 I live for this long yet: 0
 I expired
 {% endhighlight %}
+
+Remove all users : commend :redis-cli flushall
+
+
+{% highlight javascript %}
+var user_rahul = { 
+    username: 'tungns'
+};
+var user_namita = {
+    username: 'mailam'
+};
+client.hset('users', "123", JSON.stringify(user_rahul));
+client.hset('users', "456", JSON.stringify(user_namita));
+
+//get all users 
+client.hgetall("users" , function(err, user) {
+    console.log("user---",user);
+});
+
+//get single user have id is 123
+client.hget("users", '123', function(err, user) {
+    console.log("user--123-",user);
+});
+
+{% endhighlight %}
