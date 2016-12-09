@@ -3,7 +3,7 @@ layout: post
 title:  "Tutorial: Working with Node.js and Redis"
 date:   2016-12-09 11:46:07
 categories: tungns update
-tags: tungns update
+tags: mydaughter update
 image: /images/pic001.png
 ---
 Trước tiên tạo file có tên là: * app.js *
