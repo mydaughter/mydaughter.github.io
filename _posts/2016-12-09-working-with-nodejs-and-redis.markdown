@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tutorial: Working with Node.js and Redis"
+title:  "NodeJs: Set và get với Node.js và Redis"
 date:   2016-12-09 11:46:07
 categories: tungns update
 tags: redis node cache
