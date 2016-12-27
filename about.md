@@ -4,5 +4,4 @@ title: About
 permalink: /about/
 image: /images/me01.png
 ---
-
-Là một người bố tôi luôn luôn phấn đấu sống tốt với bản thân mình cũng như trong gia đình, vì tôi biết mỗi bước chân tôi đi, con gái tôi đều biết. Vì thế hãy sống thật tốt để con của tôi phải đi theo dấu chân của tôi...
+Đầu tiên tôi là một Lập Trình Viên và cuối cùng tôi cũng là một Lập Trình Viên. Những điều tôi viết ra đây đều là những điều mà tôi đã được trải qua hoặc tham khảo những bài viết mà tôi vô tình lướt qua. Tôi tổng hợp lại đây mục đích cho các bạn hoặc bản thân tôi có thể review lại nhanh nhất có thể các skill của mình khi làm nghề này... Cho nên tôi mong các bạn cũng tôi gây dựng lại những kiến  thức đã trải qua... Thanks for everything !!!
