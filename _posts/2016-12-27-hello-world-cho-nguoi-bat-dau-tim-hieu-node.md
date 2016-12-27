@@ -8,6 +8,8 @@ image: /images/nodejshelloworld.png
 ---
 Như các bạn đã biết thì hầu hết các ngôn ngữ trên thế giới đều có các demo kinh điển đó là *Hello World*. 
 Ở bài học này chúng ta sẽ làm một demo như vậy để thấy Nodejs nó được hoạt động như thế nào. Vậy chúng ta cần bắt đầu nào ...
+
+
 {% highlight javascript %}
 var redis = require("redis")
     , client = redis.createClient();
