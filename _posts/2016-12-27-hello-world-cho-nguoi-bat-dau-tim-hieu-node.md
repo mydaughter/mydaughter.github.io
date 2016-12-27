@@ -33,7 +33,7 @@ $ apt-get -y install build-essential
 
 {% endhighlight %}
 
-Các Node.js tương tác bao Nếu tất cả mọi thứ đã làm việc, bạn sẽ có thể để gọi Node.js tương tác như thế này:
+Sau khi install câu lệnh trên bạn có thể thử như câu lệnh dưới đây. Nếu bạn giống như thế này thì trước tiên bạn đã thành công trong việc install nodejs.
 
 
 {% highlight javascript %}
@@ -44,4 +44,33 @@ Hello World
 
 {% endhighlight %}
 
+## Chương trình đầu tiên :
+Trước tiên các bạn tạo Folder cho các bạn. Ví dụ tôi có folder: */projects/HelloWorldForNodejs*
+Sau đó các bạn tạo file server.js hay name gì đó tuỳ các bạn. Nhưng nhớ là phần mở rộng là .js. Sau khi tao xong tôi tao thêm code vào file này thì file server.js sẽ có như thế này .
 
+
+{% highlight javascript %}
+
+var http = require('http');
+
+var server = http.createServer(function(req, res) {
+  res.writeHead(200);
+  res.end('Hello World ');
+});
+server.listen(8080);
+
+{% endhighlight %}
+
+Tiếp đến chạy lệnh như thế này :
+
+
+{% highlight javascript %}
+
+$ node server.js
+
+{% endhighlight %}
+
+
+Vậy là xem như xong , giờ chúng ta muốn chạy nó  với port 8080 thì mở browser lên và run *http://localhost:8080*
+Như vậy chúng ta có một site với nội dung là  `Hello World ` ... Đương nhiên nó chạy port 8080. Chúng ta có thể thay đổi port đó tuỳ mỗi người nhé..
+Xong rồi đó, qua bài này các bạn có thể thấy được và hình dung việc install và run NodeJs như thế nào.. Chúc các bạn thành công! 
