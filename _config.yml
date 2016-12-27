@@ -1,17 +1,17 @@
 # Site settings
-title: My Daughter
+title: A Blog By Developers
 email: mailamnguyentran@gmail.com
-description: > # My daughter
+description: > # Tungns
 baseurl: "https://mydaughter.github.io" # the subpath of your site, e.g. /blog/
 url: "https://mydaughter.github.io" # the base hostname & protocol for your site
 twitter_username: mailamnguyentran@gmail.com
-github_username:  mydaughter
+github_username:  Tungns
 
 # Build settings
 markdown: kramdown
 
 paginate: 4
 
-author: Mai Lam
+author: Tungns
 
 gems: [jekyll-paginate]
