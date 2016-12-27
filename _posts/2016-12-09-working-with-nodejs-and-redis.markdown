@@ -2,8 +2,8 @@
 layout: post
 title:  "Tutorial: Working with Node.js and Redis"
 date:   2016-12-09 11:46:07
-categories: mydaughter update
-tags: mydaughter update
+categories: tungns update
+tags: redis node cache
 image: /images/pic001.png
 ---
 
