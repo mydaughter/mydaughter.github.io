@@ -5,6 +5,8 @@ date:   2016-12-09 11:46:07
 categories: tungns update
 tags: redis node cache
 image: /images/pic001.png
+description: "NodeJs: Set và get với Node.js và Redis. Trước khi đi vào bài này các bạn phải hiều về Redis là như thế nào???
+Redis là hệ thống lưu trữ key-value với rất nhiều tính năng và được sử dụng rộng rãi. Redis nổi bật bởi việc hỗ trợ nhiều cấu trúc dữ liệu cơ bản (hash, list, set, sorted set, string), đồng thời cho phép scripting bằng ngôn ngữ lua. Bên cạnh lưu trữ key-value trên RAM với hiệu năng cao, redis còn hỗ trợ lưu trữ dữ liệu trên đĩa cứng (persistent redis) cho phép phục hồi dữ liệu khi gặp sự cố. Các chế độ động bộ snapshots hoặc append only. Ngoài tính năng replicatation (sao chép giữa master-client), tính năng cluster (sao lưu master-master) cũng đang được phát triển."
 ---
 
 Trước khi đi vào bài này các bạn phải hiều về Redis là như thế nào???
