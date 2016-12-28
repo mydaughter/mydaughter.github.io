@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "NODEJS - :Đường dẫn tuyệt đối và require() trong nodejs"
-date:   2016-12-28 10:24:00
+date:   2016-12-28 19:24:00
 categories: mailam update
 tags: nodejs require paths
 image: /images/pathrequire.png

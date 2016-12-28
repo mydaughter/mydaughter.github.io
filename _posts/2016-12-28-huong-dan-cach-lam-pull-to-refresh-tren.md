@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "HTML5 And JS: Hướng dẫn cách làm Pull To Refresh trên website."
-date:   2016-12-28 10:24:00
+date:   2016-12-28 19:24:00
 categories: mailam update
 tags: pulltorefresh html5 js
 image: /images/pulltorefresh.png
