@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://tungns.top/</loc>
+  <lastmod>2016-12-28T02:31:07+00:00</lastmod>
+</url>
+<url>
+  <loc>http://tungns.top/acknowledgement/</loc>
+  <lastmod>2016-12-28T02:31:07+00:00</lastmod>
+</url>
+<url>
+  <loc>http://tungns.top/tungns/update/2016/12/27/hello-world-cho-nguoi-bat-dau-tim-hieu-node.html</loc>
+  <lastmod>2016-12-28T02:31:07+00:00</lastmod>
+</url>
+<url>
+  <loc>http://tungns.top/tungns/update/2016/12/09/set-va-get-nodejs-va-redis.html</loc>
+  <lastmod>2016-12-28T02:31:07+00:00</lastmod>
+</url>
+<url>
+  <loc>http://tungns.top/about/</loc>
+  <lastmod>2016-12-28T02:31:07+00:00</lastmod>
+</url>
+</urlset>
