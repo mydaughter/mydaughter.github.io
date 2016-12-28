@@ -17,8 +17,12 @@
     <meta name="news_keywords" content="java, javascript, php, node js, mongodb, mysql" />
   {% else %}
     <meta name="description" content="{{page.description}}">
-    <meta name="keywords" content="{{page.tags}}"/>
-    <meta name="news_keywords" content="{{page.tags}}" />
+    <meta name="keywords" content="{% for tag in page.tags limit:3 %}
+                  {{ tag }},
+                {% endfor %}"/>
+    <meta name="news_keywords" content="{% for tag in page.tags limit:3 %}
+                  {{ tag }},
+                {% endfor %}" />
   {% endif %}
 
   <meta http-equiv="content-language" content="vi"/>
