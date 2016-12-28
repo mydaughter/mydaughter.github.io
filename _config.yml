@@ -2,8 +2,8 @@
 title: A Blog By Developers
 email: mailamnguyentran@gmail.com
 description: > # Tungns
-baseurl: "https://mydaughter.github.io" # the subpath of your site, e.g. /blog/
-url: "https://mydaughter.github.io" # the base hostname & protocol for your site
+baseurl: "http://tungns.top" # the subpath of your site, e.g. /blog/
+url: "http://tungns.top" # the base hostname & protocol for your site
 twitter_username: mailamnguyentran@gmail.com
 github_username:  Tungns
 
@@ -12,6 +12,6 @@ markdown: kramdown
 
 paginate: 4
 
-author: Tungns
+author: MaiLam
 
 gems: [jekyll-paginate]
