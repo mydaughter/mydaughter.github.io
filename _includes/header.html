@@ -16,11 +16,24 @@
     <meta name="description" content="Blog's học tập dành cho các bạn đam mê về lập trình bao gồm PHP, JAVA, JAVASCRIPT, NODE JS, MONGODB, MEANJS, HTML, CSS ...">
     <meta name="keywords" content="Lap trinh, hoc lap trinh, code hay, tu hoc, tu hoc lap trinh"/>
     <meta name="news_keywords" content="java, javascript, php, node js, mongodb, mysql" />
+
+    <meta property="og:url" ontent="http://tungns.top/" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="A blog by developers" />
+    <meta property="og:description" content="Blog's học tập dành cho các bạn đam mê về lập trình bao gồm PHP, JAVA, JAVASCRIPT, NODE JS, MONGODB, MEANJS, HTML, CSS ..." />
+    <meta property="og:image" ontent="/images/me001.png" />
+
   {% else %}
     <meta name="author" content="{{page.author}}" />
     <meta name="description" content="{{page.description}}">
     <meta name="keywords" content="{% for tag in page.tags limit:10 %}{{ tag }},{% endfor %}"/>
     <meta name="news_keywords" content="{% for tag in page.tags limit:10 %}{{ tag }},{% endfor %}" />
+
+    <meta property="og:url" ontent="{{ page.url }}" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="og:description" content="{{ page.description }}" />
+    <meta property="og:image" ontent="{{ page.image }}" />
   {% endif %}
 
   <meta http-equiv="content-language" content="vi"/>
