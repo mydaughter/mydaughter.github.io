@@ -5,9 +5,6 @@ date:   2016-12-27 11:46:07
 categories: tungns update
 tags: helloworld node cache
 image: /images/nodejshelloworld.png
-description: NodeJs: Hello World cho người bắt đầu tìm hiểu Nodejs. Như các bạn đã biết thì hầu hết các ngôn ngữ trên thế giới đều có các demo kinh điển đó là "Hello World"Ở bài học này chúng ta sẽ làm một demo như vậy để thấy Nodejs nó được hoạt động như thế nào. Vậy chúng ta cần bắt đầu nào.
-
-
 ---
 Như các bạn đã biết thì hầu hết các ngôn ngữ trên thế giới đều có các demo kinh điển đó là *Hello World*. 
 Ở bài học này chúng ta sẽ làm một demo như vậy để thấy Nodejs nó được hoạt động như thế nào. Vậy chúng ta cần bắt đầu nào.
