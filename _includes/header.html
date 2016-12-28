@@ -10,22 +10,27 @@
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel='shortcut icon' type='image/x-icon' href='/images/logo.ico' />
   
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+  {% if page.title == null %}
     <meta name="description" content="Blog's học tập dành cho các bạn đam mê về lập trình bao gồm PHP, JAVA, JAVASCRIPT, NODE JS, MONGODB, MEANJS, HTML, CSS ...">
     <meta name="keywords" content="Lap trinh, hoc lap trinh, code hay, tu hoc, tu hoc lap trinh"/>
     <meta name="news_keywords" content="java, javascript, php, node js, mongodb, mysql" />
+  {% else %}
+    <meta name="description" content="{{page.description}}">
+    <meta name="keywords" content="{{page.tags}}"/>
+    <meta name="news_keywords" content="{{page.tags}}" />
+  {% endif %}
 
+  <meta http-equiv="content-language" content="vi"/>
 
-<meta http-equiv="content-language" content="vi"/>
+  <meta name="apple-mobile-web-app-capable" content="yes">
 
-<meta name="apple-mobile-web-app-capable" content="yes">
+  <link rel="alternate" href="tungns.top" hreflang="vn-vi" />
 
-<link rel="alternate" href="tungns.top" hreflang="vn-vi" />
-
-<meta name="author" content="tungns.top" />
-    <meta http-equiv="REFRESH" content="1800" />
-    <meta name="googlebot" content="noarchive" />
-    <meta name="robots" content="noarchive" />
+  <meta name="author" content="tungns.top" />
+  <meta http-equiv="REFRESH" content="1800" />
+  <meta name="googlebot" content="noarchive" />
+  <meta name="robots" content="noarchive" />
   <!--[if lte IE 9]><link rel="stylesheet" href="{{ "assets/css/ie9.css" | prepend: site.baseurl }}" /><![endif]-->
   <!--[if lte IE 8]><link rel="stylesheet" href="{{ "assets/css/ie8.css" | prepend: site.baseurl }}" /><![endif]-->
 </head>
