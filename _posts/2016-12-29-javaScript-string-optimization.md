@@ -4,7 +4,7 @@ title:  "JavaScript -: JavaScript String optimization"
 date:   2016-12-29 19:24:00
 categories: mailam update
 tags: OPTIMIZATION JAVASCRIPT
-image: /images/javascriptoptimazition.png
+image: /images/imgJavascript.png
 description: "JavaScript String optimization"
 author: "coderwall.com"
 ---
