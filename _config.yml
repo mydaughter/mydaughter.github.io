@@ -1,11 +1,11 @@
 # Site settings
 title: A Blog By Developers
 email: mailamnguyentran@gmail.com
-description: > # Tungns
+description: > # MaiLam
 baseurl: "http://tungns.top" # the subpath of your site, e.g. /blog/
 url: "http://tungns.top" # the base hostname & protocol for your site
 twitter_username: mailamnguyentran@gmail.com
-github_username:  Tungns
+github_username:  MaiLam
 
 # Build settings
 markdown: kramdown
