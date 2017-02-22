@@ -2,7 +2,7 @@
 layout: main
 ---
 
-{% for postEnglish in paginator.posts %}
+{% for post in paginator.posts %}
   <article class="post">
     <header>
       <div class="title">
@@ -40,4 +40,3 @@ layout: main
     </footer>
   </article>
 {% endfor %}
-
