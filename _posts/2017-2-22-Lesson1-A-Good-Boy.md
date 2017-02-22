@@ -11,5 +11,8 @@ This is a video helpful if you want to improve your english. Note: Just for basi
 
 ## 1- A good Boy
 
-<audio src="/assets/music/AGoodBoy.mp3" preload="auto" />
+<audio preload="auto">
+      <source src="//tungns.top/assets/music/AGoodBoy.mp3">
+    </audio>
+
 
