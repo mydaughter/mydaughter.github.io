@@ -11,6 +11,11 @@ This is a video helpful if you want to improve your english. Note: Just for basi
 
 ## 1- A good Boy
 
+<script>
+      audiojs.events.ready(function() {
+        var as = audiojs.createAll();
+      });
+</script>
 <audio preload="auto">
       <source src="//tungns.top/assets/music/AGoodBoy.mp3">
     </audio>
