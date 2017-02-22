@@ -1,7 +1,7 @@
 ---
 layout: page
-title: acknowledgement
-permalink: /acknowledgement/
+title: Practice English
+permalink: /practice-english/
 image: /images/pic01.jpg
 ---
 ### Website Design
